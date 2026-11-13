@@ -39,6 +39,7 @@ Thumbs.db
 # Omnis documentation and everything generated from it must never be committed
 Omnis PDF/*
 !Omnis PDF/README.md
+!Omnis PDF/README_it.md
 output/*
 !output/README.md
 *.pdf
